@@ -1,0 +1,17 @@
+h1{
+    font-family:"Libre Baskerville",normal;
+    text-transform: uppercase;
+}
+body{
+    color:white;
+    background-color: black;
+}
+
+img{
+max-width: 100%;
+border: 5px;
+}
+
+div{
+    margin:center;
+}
